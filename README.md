@@ -71,7 +71,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 **General User**
 
 There are two types of general user:
-- **User Who Isn’t Assigned to Any Property:**
+**User Who Isn’t Assigned to Any Property:**
 -	Can search for properties to rent.
 - Can search for properties to buy.
 - Can apply to a property to rent.
@@ -82,7 +82,7 @@ There are two types of general user:
 - Receive notices from super admin
 - View notices
 - Can send message to helpline
-- **User who is assigned to a property:**
+**User who is assigned to a property:**
 - Can search for properties to rent
 - Can search for properties to buy
 - Can apply to a property to rent
@@ -98,6 +98,7 @@ There are two types of general user:
 - View bill history
 - Can send the owner message
 - Can send a leave notice
+
 **Owner User:**
 - Can search property to rent
 - Can search property to buy
@@ -121,8 +122,11 @@ There are two types of general user:
 - Can receive message from tenant
 - Can reply to tenant
 - Can contact support centre
+
 **Agent User**
+
 **Admin User**
+
 **Super Admin User:**
 - Can search property to rent
 - Can search property to buy
