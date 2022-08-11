@@ -1,4 +1,4 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
+<!-- <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
@@ -61,4 +61,74 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 ## License
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT). -->
+<p align="center">GhorBari.xyz</p>
+
+## About GhorBari.xyz
+
+## User Roles
+
+**General User**
+
+There are two types of general user:
+- **User Who Isn’t Assigned to Any Property:**
+-	Can search for properties to rent.
+- Can search for properties to buy.
+- Can apply to a property to rent.
+- Can apply to a property to buy.
+- Can create a flat and become an owner user
+- Can update profile.
+- Can upload user documents.
+- Receive notices from super admin
+- View notices
+- Can send message to helpline
+- **User who is assigned to a property:**
+- Can search for properties to rent
+- Can search for properties to buy
+- Can apply to a property to rent
+- Can apply to a property to buy
+- Can create a flat and become an owner user
+- Can update profile
+- Can upload/edit/delete user document.
+- Receive notices from owner, super admin
+- View notices
+- Can send messages to helpline
+- Receive monthly bill in account, mail, sms
+- Can pay monthly bill via card/mobile banking
+- View bill history
+- Can send the owner message
+- Can send a leave notice
+**Owner User:**
+- Can search property to rent
+- Can search property to buy
+- Can apply property to rent
+- Can apply property to buy
+- Can assign property to rent
+- Can assign property to buy
+- Can create flats
+- Can see the list of tenants
+- Can see the profile details of an individual tenant
+- Can see the billing history of a tenant
+- Can see the rental history of a tenant
+- Can see the applicant list of house rental
+- Can see the applicant list of house purchase
+- Can approve a tenant among applicants
+- Can terminate a tenant
+- Can approve a buyer among applicants
+- Can send tenants notices
+- Can create invoice of monthly payment for tenants
+- Can create invoice for house purchase for buyers
+- Can receive message from tenant
+- Can reply to tenant
+- Can contact support centre
+**Agent User**
+**Admin User**
+**Super Admin User:**
+- Can search property to rent
+- Can search property to buy
+- Can apply for rent
+- Can apply to buy
+- Can become an owner and have all of owner feature
+- Can update website content
+- Can update user status anytime
+- Can update company status anytime
