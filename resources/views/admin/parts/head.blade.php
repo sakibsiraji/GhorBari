@@ -11,6 +11,9 @@
   <!-- Mobile Metas -->
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
 
+  <!-- Favicon -->
+  <link rel="shortcut icon" href="{{asset('Backend/img/favicon.ico')}}" type="image/x-icon" />
+
   <!-- Web Fonts  -->
   <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700,800|Shadows+Into+Light" rel="stylesheet" type="text/css">
 

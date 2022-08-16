@@ -8,6 +8,9 @@
   <meta name="description" content="Porto Admin - Responsive HTML5 Template">
   <meta name="author" content="okler.net"> -->
 
+  <!-- Favicon -->
+  <link rel="shortcut icon" href="{{asset('Backend/img/favicon.ico')}}" type="image/x-icon" />
+
   <!-- Mobile Metas -->
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
 
@@ -38,4 +41,6 @@
   <!-- Head Libs -->
   <script src="{{asset('Backend/vendor/modernizr/modernizr.js')}}"></script>
 
+  <!-- Fontawesome -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.2/css/all.min.css" integrity="sha512-1sCRPdkRXhBV2PBLUdRb4tMg1w2YPf37qatUFeS7zlBy7jJI8Lf4VHwWfZZfpXtYSLy85pkm9GaYVYMfw5BC1A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 </head>

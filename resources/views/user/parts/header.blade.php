@@ -2,7 +2,7 @@
 <header class="header">
   <div class="logo-container">
     <a href="#" class="logo">
-      <img src="{{asset('Backend/img/logo.png')}}" width="75" height="35" alt="GhorBari.xyz" />
+      <img src="{{asset('Backend/img/logo.png')}}" width="" height="35" alt="GhorBari.xyz" />
     </a>
 
     <div class="d-md-none toggle-sidebar-left" data-toggle-class="sidebar-left-opened" data-target="html" data-fire-event="sidebar-left-opened">
